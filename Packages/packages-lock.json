@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.kyubuns.trackpad-navigation": {
+      "version": "https://github.com/kyubuns/UnityTrackpadNavigation.git?path=Packages/com.kyubuns.trackpad-navigation",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2e2c5d9dcf78af925a8dac6b6e7a2c9033253ee8"
+    },
     "com.unity.2d.animation": {
       "version": "13.0.6",
       "depth": 0,
